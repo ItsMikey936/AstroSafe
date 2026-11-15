@@ -1,0 +1,4 @@
+# Everything in requirements.txt plus the tools used by the team.
+-r requirements.txt
+flake8>=7.0
+pyinstaller>=6.0

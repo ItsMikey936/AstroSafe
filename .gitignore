@@ -1,0 +1,22 @@
+# Python virtual environment (each person creates their own)
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# PyInstaller output
+build/
+dist/
+*.spec
+
+# Demo data generated locally by scripts/create_demo_db.py
+data/demo.db
+data/demo_files/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

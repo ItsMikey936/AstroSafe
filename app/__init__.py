@@ -1,0 +1,1 @@
+"""Astronaut health monitoring application."""
