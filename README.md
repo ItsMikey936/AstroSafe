@@ -72,12 +72,4 @@ python scripts/create_demo_db.py
 python main.py
 ```
 
-## Guides
 
-Read them in order:
-
-1. `docs/00_TEAM_PLAN.md`: who does what and in which order
-2. `docs/01_SETUP_WINDOWS.md` or `docs/02_SETUP_ARCH_LINUX.md`
-3. `docs/03_GIT_WORKFLOW.md`
-4. Your personal guide: `docs/10_...` to `docs/21_...`
-5. `docs/30_MERGE_AND_BUILD.md`: final executable
